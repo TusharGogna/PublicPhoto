@@ -9,6 +9,7 @@ and in your app level build.gradle.kts, add:
 
         implementation("com.github.TusharGogna:PublicPhoto:LATEST_VERSION")
 
+Current version is **1.0**
 
 Then, in order to fetch the public Gravatar photo, simply call the method: **getPublicPhoto(...)** which returns a URL in the form of a String. The method looks something like this:
              
